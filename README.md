@@ -1,5 +1,5 @@
 # expenses-chart-component
-![image](https://github.com/JonathanManzanoDiaz/expenses-chart-component/assets/43423216/c3a1e3ce-8d8d-4221-86e4-03a91668bea1)
+![image](https://github.com/JonathanManzanoDiaz/expenses-chart-component/assets/43423216/39b99d9a-4486-4b24-b376-7d57ed852153)
 <br>
 [LINK CHALLENGE](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
 <br>
